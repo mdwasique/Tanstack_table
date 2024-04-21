@@ -1,0 +1,6 @@
+npm install regenerator-runtime
+import 'regenerator-runtime/runtime' on main.jsx
+
+
+npm install prop-types from mission props validation error on global or protected routes
+
